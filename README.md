@@ -5,7 +5,7 @@
 
 #### Desktop 
 |   IE  |   Edge    |   Firefox |   Chrome  |  Safari   |   Opera   |   
-------
+|:----- |:---------:| -------------:|
 | 11    |           |    45.0   |    46.0   |           |    57.0   |
 |       |           |    65.0   |    72.0   |           |           |
 |       |           |           |           |           |           |
@@ -14,7 +14,7 @@
 
 #### Mobile 
 | IOS Safari | Opera Mobile | Android Browser | Chrome for Android | Firefox for android |
-------
+|:---------- |:------------:|:---------------:|:------------------:| -------------------:|
 |            |     53.3     |                 |         72.0       |          65.0       |
 |            |              |                 |                    |                     |
 |            |              |                 |                    |                     |
@@ -48,3 +48,8 @@
     | Приблизительное время задержки при вводе  | 220 мс   |
 
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
