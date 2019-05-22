@@ -7,8 +7,8 @@
         В связи с тем что данная страница является шаблонам. Некоторые ссылки могут не работать.
         
 ## Стек технологий примененный при разработке шаблона
-*   ES5
-*   jQuery
+*   [ECMAScript 5](http://es5.github.io/)
+*   [jQuery](https://jquery-docs.ru/)
 *   [slider slick](https://kenwheeler.github.io/slick/)
 *   [animatedScroll](https://github.com/victor8titov/jquery.animateScroll)
 ##  Тесты    
